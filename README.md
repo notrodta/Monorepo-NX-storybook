@@ -1,5 +1,7 @@
 Monorepo-NX-storybook
 
+tutorial: https://www.youtube.com/watch?v=Bw_tmWEaaIU&ab_channel=JackHerrington
+
 create project: npx create-nx-workspace bccmono
 
 start react app: npm start
